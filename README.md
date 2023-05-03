@@ -45,7 +45,7 @@
 <br>
 
    <div>
-      <h3>✏🖤 GitHub Stats</h3>
+      <h3>🖤 GitHub Stats</h3>
    </div>
       
 ![yj59's GitHub stats](https://github-readme-stats.vercel.app/api?username=yj59&show_icons=true&theme=vue)
