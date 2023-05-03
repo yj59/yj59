@@ -1,12 +1,7 @@
 <div align="center">
    
    ![](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=YEJIN&fontSize=50&fontAlignY=40)
-   
-   <div>
-      <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fyj59.github.io&count_bg=%23CCC5C4&title_bg=%23F7F7F7&icon=&icon_color=%23E7E7E7&title=%F0%9F%91%A3&edge_flat=false"/>
-      <br><br><br>
-   </div>
-   
+      
    <div>
       <h3>💌 Contact </h3>
        <a href="mailto:yj.osoq@gmail.com" target="_blank"><img src="https://img.shields.io/badge/yj.osoq@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -40,13 +35,20 @@
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
       <br><br><br>
    </div>
+      
+   <div>
+      <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fyj59.github.io&count_bg=%23CCC5C4&title_bg=%23F7F7F7&icon=&icon_color=%23E7E7E7&title=%F0%9F%91%A3&edge_flat=false"/>
+      <br><br><br>
+   </div>
 
    <h2></h2>
    <br>
 
 ![yj59's GitHub stats](https://github-readme-stats.vercel.app/api?username=yj59&show_icons=true&theme=dracula)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=a59)](https://solved.ac/a59/)  
+ 
 </div>
+   
 
 <!--
 **yj59/yj59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
