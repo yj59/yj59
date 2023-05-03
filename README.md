@@ -59,7 +59,7 @@
 
 <h4>👀 Study Logs </h4>
    
-[![ogImg](https://user-images.githubusercontent.com/93882395/235844082-3d71a581-4ad1-4b5d-9144-0e2135d03181.png)](https://yj59.github.io/)
+[<img src="https://user-images.githubusercontent.com/93882395/235844082-3d71a581-4ad1-4b5d-9144-0e2135d03181.png" alt="ogImg" style="zoom:33%;" />](https://yj59.github.io/)
    
 
 
