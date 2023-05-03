@@ -3,6 +3,11 @@
    ![](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=YEJIN&fontSize=50&fontAlignY=40)
    
    <div>
+      <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fyj59.github.io&count_bg=%23CCC5C4&title_bg=%23F7F7F7&icon=&icon_color=%23E7E7E7&title=%F0%9F%91%A3&edge_flat=false"/>
+      <br><br><br>
+   </div>
+   
+   <div>
       <h3>💌 Contact </h3>
        <a href="mailto:yj.osoq@gmail.com" target="_blank"><img src="https://img.shields.io/badge/yj.osoq@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
        <br><br><br>
