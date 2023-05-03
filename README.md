@@ -3,11 +3,11 @@
    ![](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=YEJIN&fontSize=50&fontAlignY=40)
    
    <div>
-      <h3>⚙💌 Contact </h3>
+      <h3>💌 Contact </h3>
        <a href="mailto:yj.osoq@gmail.com" target="_blank"><img src="https://img.shields.io/badge/yj.osoq@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+       <br>
    </div>
-   
-   
+      
    <div>
       <h3>⚙️ Tech Stacks </h3>
    </div>
@@ -23,6 +23,7 @@
       <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white"/>
       <br>
       <img src="https://img.shields.io/badge/Perforce-404040?style=for-the-badge&logo=perforce&logoColor=white"/>
+      <br>
    </div>
 
    <div>
@@ -32,6 +33,7 @@
       <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
       <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
+      <br>
    </div>
 
    <h2></h2>
