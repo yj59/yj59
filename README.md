@@ -40,28 +40,32 @@
       <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fyj59.github.io&count_bg=%23CCC5C4&title_bg=%23F7F7F7&icon=&icon_color=%23E7E7E7&title=%F0%9F%91%A3&edge_flat=false"/>
       <br><br><br>
    </div>
-
+</div>
 ---
 <br>
 
-   <div>
-      <h3>🖤 GitHub Stats</h3>
-   </div>
-      
-![yj59's GitHub stats](https://github-readme-stats.vercel.app/api?username=yj59&show_icons=true&theme=vue)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yj59&layout=compact&theme=vue)
 
-   <div>
-      <br>
-      <h3>✏️ Today I Learned </h3>
-   </div>
-      
-[![ogImg_profile](https://user-images.githubusercontent.com/93882395/235845719-23051c38-e8b1-4945-aa29-5cbb1a48fa93.png)](https://yj59.github.io/)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=a59)](https://solved.ac/a59/)
-      
+<div align="center">
+   <h3>🖤 GitHub Stats </h3>
+   
+   ![yj59's GitHub stats](https://github-readme-stats.vercel.app/api?username=yj59&show_icons=true&theme=vue)
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yj59&layout=compact&theme=vue)
+   
+</div> 
+
+   
+
+
+<div align="center">
+   <h3>✏️ Today I Learned </h3>   
+
+   [![ogImg_profile](https://user-images.githubusercontent.com/93882395/235845719-23051c38-e8b1-4945-aa29-5cbb1a48fa93.png)](https://yj59.github.io/)
+   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=a59)](https://solved.ac/a59/)
+   
+</div>      
    
       
-</div>
+
    
 
 <!--
