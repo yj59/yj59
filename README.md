@@ -41,22 +41,18 @@
       <br><br><br>
    </div>
 
-   <div>
-      
-      ![yj59's GitHub stats](https://github-readme-stats.vercel.app/api?username=yj59&show_icons=true&theme=vue)
-      
-      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yj59&layout=compact&theme=vue)
-      
-   </div>
+
+![yj59's GitHub stats](https://github-readme-stats.vercel.app/api?username=yj59&show_icons=true&theme=vue)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yj59&layout=compact&theme=vue)
 
    <div>
-      
       <h3>✏️Today I Learned </h3>
-      
-      [![ogImg_profile](https://user-images.githubusercontent.com/93882395/235845719-23051c38-e8b1-4945-aa29-5cbb1a48fa93.png)](https://yj59.github.io/)
-      [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=a59)](https://solved.ac/a59/)
-      
    </div>
+      
+[![ogImg_profile](https://user-images.githubusercontent.com/93882395/235845719-23051c38-e8b1-4945-aa29-5cbb1a48fa93.png)](https://yj59.github.io/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=a59)](https://solved.ac/a59/)
+      
+   
       
 </div>
    
