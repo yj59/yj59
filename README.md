@@ -8,24 +8,24 @@
    
    <div>
       <h3>🌿 Main </h3>
-      <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=A8B9CC"/>
-      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=00599C"/>
-      <img src="https://img.shields.io/badge/Unreal-0E1128?style=for-the-badge&logo=unrealengine&logoColor=0E1128"/>
-      <img src="https://img.shields.io/badge/Unity-0E1128?style=for-the-badge&logo=unity&logoColor=0E1128"/>
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
+      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Unreal-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Unity-0E1128?style=for-the-badge&logo=unity&logoColor=white"/>
       <br>
-      <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=F5792A"/>
-      <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=5586A4"/>
+      <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
+      <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white"/>
       <br>
-      <img src="https://img.shields.io/badge/Perforce-404040?style=for-the-badge&logo=perforce&logoColor=404040"/>
+      <img src="https://img.shields.io/badge/Perforce-404040?style=for-the-badge&logo=perforce&logoColor=white"/>
    </div>
 
    <div>
       <h4>👀 I've Used </h4>
-      <img src="https://img.shields.io/badge/Python-00599C?style=for-the-badge&logo=python&logoColor=#3776AB"/>
-      <img src="https://img.shields.io/badge/Colab-4479A1?style=for-the-badge&logo=googlecolab&logoColor=#F9AB00"/>
-      <img src="https://img.shields.io/badge/Jupyter-3776AB?style=for-the-badge&logo=jupyter&logoColor=#F37626">
-      <img src="https://img.shields.io/badge/OpenAI-2496ED?style=for-the-badge&logo=openai&logoColor=#412991">
-      <img src="https://img.shields.io/badge/OpenCV-2496ED?style=for-the-badge&logo=opencv&logoColor=#5C3EE8">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
    </div>
 
    <h2></h2>
