@@ -7,7 +7,7 @@
    </div>
    
    <div>
-      <h3>⚙️ Main </h3>
+      <h3>🌿 Main </h3>
       <img src="https://img.shields.io/badge/C-F7DF1E?style=for-the-badge&logo=c&logoColor=#A8B9CC"/>
       <img src="https://img.shields.io/badge/C++-F7DF1E?style=for-the-badge&logo=cplusplus&logoColor=#00599C"/>
       <img src="https://img.shields.io/badge/Unreal-F7DF1E?style=for-the-badge&logo=unrealengine&logoColor=#0E1128"/>
