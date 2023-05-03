@@ -57,8 +57,8 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=a59)](https://solved.ac/a59/)  
 
-<h4>👀 Study Logs <h4>
- ![ogImg](https://user-images.githubusercontent.com/93882395/235844082-3d71a581-4ad1-4b5d-9144-0e2135d03181.png)(https://yj59.github.io/)
+<h4>👀 Study Logs </h4>
+[![ogImg](https://user-images.githubusercontent.com/93882395/235844082-3d71a581-4ad1-4b5d-9144-0e2135d03181.png)](https://yj59.github.io/)
    
 
 
