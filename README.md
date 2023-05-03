@@ -32,7 +32,7 @@
    <br>
 
 ![yj59's GitHub stats](https://github-readme-stats.vercel.app/api?username=yj59&show_icons=true&theme=dracula)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlgus4110)](https://solved.ac/a59/)  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=a59)](https://solved.ac/a59/)  
 </div>
 
 <!--
