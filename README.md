@@ -8,15 +8,15 @@
    
    <div>
       <h3>🌿 Main </h3>
-      <img src="https://img.shields.io/badge/C-F7DF1E?style=for-the-badge&logo=c&logoColor=%23A8B9CC"/>
-      <img src="https://img.shields.io/badge/C++-F7DF1E?style=for-the-badge&logo=cplusplus&logoColor=%2300599C"/>
-      <img src="https://img.shields.io/badge/Unreal-F7DF1E?style=for-the-badge&logo=unrealengine&logoColor=%230E1128"/>
-      <img src="https://img.shields.io/badge/Unity-F7DF1E?style=for-the-badge&logo=unity&logoColor=%230E1128"/>
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=A8B9CC"/>
+      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=00599C"/>
+      <img src="https://img.shields.io/badge/Unreal-0E1128?style=for-the-badge&logo=unrealengine&logoColor=0E1128"/>
+      <img src="https://img.shields.io/badge/Unity-0E1128?style=for-the-badge&logo=unity&logoColor=0E1128"/>
       <br>
-      <img src="https://img.shields.io/badge/Blender-F7DF1E?style=for-the-badge&logo=blender&logoColor=%23F5792A"/>
-      <img src="https://img.shields.io/badge/OpenGL-F7DF1E?style=for-the-badge&logo=opengl&logoColor=%235586A4"/>
+      <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=F5792A"/>
+      <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=5586A4"/>
       <br>
-      <img src="https://img.shields.io/badge/Perforce-F7DF1E?style=for-the-badge&logo=perforce&logoColor=%23404040"/>
+      <img src="https://img.shields.io/badge/Perforce-404040?style=for-the-badge&logo=perforce&logoColor=404040"/>
    </div>
 
    <div>
