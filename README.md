@@ -16,12 +16,14 @@
       <h4>🌿 Main </h4>
       <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
       <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+      <img src="https://img.shields.io/badge/C#-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
       <img src="https://img.shields.io/badge/Unreal-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"/>
       <img src="https://img.shields.io/badge/Unity-0E1128?style=for-the-badge&logo=unity&logoColor=white"/>
       <br>
       <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
       <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white"/>
       <br>
+      <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white"/>
       <img src="https://img.shields.io/badge/Perforce-404040?style=for-the-badge&logo=perforce&logoColor=white"/>
       <br><br><br>
    </div>
