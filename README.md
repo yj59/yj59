@@ -35,11 +35,7 @@
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
       <br><br><br>
    </div>
-      
-   <div>
-      <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fyj59.github.io&count_bg=%23CCC5C4&title_bg=%23F7F7F7&icon=&icon_color=%23E7E7E7&title=%F0%9F%91%A3&edge_flat=false"/>
-      <br><br><br>
-   </div>
+
 </div>
    
 ---
