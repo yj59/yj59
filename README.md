@@ -1,5 +1,3 @@
-![home_bg txt2gif](https://github.com/yj59/yj59.github.io/assets/93882395/bcd080fb-1c17-4b00-8485-d8311c570087)
-
 <div align="center">
    <br></br>
    <div>
