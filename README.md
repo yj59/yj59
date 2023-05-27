@@ -1,7 +1,7 @@
+![home_bg txt2gif](https://github.com/yj59/yj59.github.io/assets/93882395/bcd080fb-1c17-4b00-8485-d8311c570087)
+
 <div align="center">
-   
-   ![](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=YEJIN&fontSize=50&fontAlignY=40)
-      
+   <br></br>
    <div>
       <h3>💌 Contact </h3>
        <a href="mailto:yj.osoq@gmail.com" target="_blank"><img src="https://img.shields.io/badge/yj.osoq@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
