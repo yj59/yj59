@@ -1,4 +1,18 @@
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Hello!&desc=yj59ᰔ&fontSize=60&rotate=14&fontAlignY=25&fontAlign=75&descAlignY=43&descAlign=80&&animation=twinkling)
+
+<br></br>
+
+
+
 <div align="center">
+   
+   <br></br>
+   <div>
+      <h3>💓 </h3>
+      게임 클라이언트 공부하는 학생입니다.😊
+      
+   <div>
+   
    <br></br>
    <div>
       <h3>💌 Contact </h3>
